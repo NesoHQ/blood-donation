@@ -31,4 +31,4 @@ Use this table to triage features. Focus on Must-Haves for MVP.
 - Propose features via [GitHub Issues](https://github.com/NesoHQ/blood-donation/issues/new?template=feature_request.md).
 - Vote on priorities with reactions (👍 for high-impact).
 
-*Last Updated: 2025-10-12. Feedback welcome!*
+*Last Updated: 2025-10-21. Feedback welcome!*
